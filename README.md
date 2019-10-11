@@ -10,3 +10,5 @@ exceptions as appropriate. The second method, query will also take two integers 
 also throw an exception as appropriate. It should return true if the elements are connected,
 directly or indirectly, and false if the elements are not connected. The class can have as
 many private or protected members as needed for a good implementation.
+
+
